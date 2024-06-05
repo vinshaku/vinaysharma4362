@@ -1,16 +1,16 @@
-## Hi there 👋
+# Vinay Sharma
 
-<!--
-**vinaysharma4362/vinaysharma4362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Email:** vinaysharma4362@gmail.com
+- **Phone:** +91 9974440354
+- **GitHub:** [github.com/vinaysharma4362](https://github.com/vinaysharma4362)
+- **LinkedIn:** [linkedin.com/in/vinaysharma4362](https://linkedin.com/in/vinaysharma4362)
 
-Here are some ideas to get you started:
+## Summary
+Ruby on Rails Developer with 4 years of experience in web application development. Proficient in building RESTful APIs, integrating payment gateways, generating reports, and deploying on Heroku and AWS. Experienced in various project domains such as POS systems, CRM, e-commerce, Real Estate Management, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Programming Languages:** Ruby, jQuery
+- **Frameworks:** Ruby on Rails
+- **Tools:** Git, VS Code
+- **Databases:** PostgreSQL, MySQL, MongoDB (intermediate)
+- **Operating Systems:** Linux, MacOS
