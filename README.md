@@ -2,11 +2,11 @@
 
 - **Email:** vinaysharma4362@gmail.com
 - **Phone:** +91 9974440354
-- **GitHub:** [github.com/vinaysharma4362](https://github.com/vinaysharma4362)
-- **LinkedIn:** [linkedin.com/in/vinaysharma4362](https://linkedin.com/in/vinaysharma4362)
+- **GitHub:** [github.com/vinshaku](https://github.com/vinshaku)
+- **LinkedIn:** [linkedin.com/in/vinshaku](https://linkedin.com/in/vinshaku)
 
 ## Summary
-Ruby on Rails Developer with 4 years of experience in web application development. Proficient in building RESTful APIs, integrating payment gateways, generating reports, and deploying on Heroku and AWS. Experienced in various project domains such as POS systems, CRM, e-commerce, Real Estate Management, etc.
+Ruby on Rails Developer with over 5 years of experience in building scalable and high-performance web applications. Experienced in designing RESTful APIs, integrating payment gateways, improving performance, and deploying apps on AWS and Heroku. Skilled in backend architecture, performance tuning, and cross-functional collaboration with engineering and product teams across domains such as POS, CRM, VoIP, Real Estate and e-commerce.
 
 ## Skills
 - **Programming Languages:** Ruby, jQuery
