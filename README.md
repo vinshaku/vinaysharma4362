@@ -1,8 +1,8 @@
 ### Hi there, I'm Vinay Sharma 👋
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github.com/vinshaku/vinshaku/blob/main/banner.png" alt="Vinay Sharma Banner"/>
-</p> -->
+</p>
 
 ---
 
@@ -30,25 +30,25 @@ Ruby on Rails Developer with over 5 years of experience in building scalable and
 
 ---
 
-### 📊 GitHub Stats
-<!-- 
+<!-- ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vinshaku&show_icons=true&theme=tokyonight" alt="vinshaku github stats"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinshaku&theme=tokyonight" alt="vinshaku streak stats"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinshaku&layout=compact&theme=tokyonight" alt="vinshaku top languages"/>
-</p> -->
+</p>
 
 ---
 
-<!-- ### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vinshaku&theme=onedark" />
-</p> -->
+</p>
 
----
+--- -->
 
 ### 📈 Visitor Count
 
