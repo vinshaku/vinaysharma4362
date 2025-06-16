@@ -1,8 +1,8 @@
 ### Hi there, I'm Vinay Sharma 👋
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/vinshaku/vinshaku/blob/main/banner.png" alt="Vinay Sharma Banner"/>
-</p>
+</p>-->
 
 ---
 
