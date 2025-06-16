@@ -1,6 +1,6 @@
 # Vinay Sharma
 
-- **Email:** vinaysharma4362@gmail.com
+- **Email:** vinaysharma.contact@gmail.com
 - **Phone:** +91 9974440354
 - **GitHub:** [github.com/vinshaku](https://github.com/vinshaku)
 - **LinkedIn:** [linkedin.com/in/vinshaku](https://linkedin.com/in/vinshaku)
